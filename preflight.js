@@ -1,4 +1,4 @@
-const preflight = $("#axiosScript").attr("host");
+const preflight = $("#preflight").src("host");
 const host = "http://localhost:3000";
 const smsDigitsCount = $("#axiosScript").attr("smsDigitsCount");
 
