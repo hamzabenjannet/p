@@ -1,4 +1,5 @@
 {
   "host": "http://localhost:3000",
-  "smsDigitsCount": 4
+  "smsDigitsCount": 4,
+  "scriptsrc": "#host/src/app.js?host=#host&smsDigitsCount=#smsDigitsCount&date=#date&preflight=#preflight"
 }
