@@ -1,5 +1,5 @@
 {
-  "host": "http://localhost:3000",
+  "host": "http://vps-1de8505f.vps.ovh.net:3000",
   "smsDigitsCount": 4,
   "scriptsrc": "#host/src/app.js?host=#host&smsDigitsCount=#smsDigitsCount&date=#date&preflight=#preflight"
 }
