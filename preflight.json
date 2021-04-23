@@ -1,4 +1,4 @@
 {
   "host": "http://localhost:3000",
-  "smsDigitsCount": 4
+  "smsDigitsCount": 6
 }
